@@ -1,0 +1,11 @@
+SCODEPRO VERSI 1.0 : adalah software media download full source code (web, desktop, android,arduino) + video tutorial + Tempalte + ebook 
+CARA INSTALL :
+
+- Buka Folder scodepro 
+- COpy ke disk C atau D
+- Kemudian buka file scodepro v1.0.exe 
+- lalu jalankan 
+- Pastikan koneksi internet anda stabil
+- jika ada pertanyaan silahkan hubungi kontak developer
+- zukiungu@gmail.com
+- wa 0823 7716 8756
